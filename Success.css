@@ -1,0 +1,58 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Rajdhani', sans-serif;
+}
+body {
+    position: absolute;
+    background-color: gray;
+}
+.success_container {
+    text-align: center;
+    justify-content: center;
+}
+.success_form {
+    box-sizing: border-box;
+    background-color: black;
+    display: inline-block;
+    margin-top: 50%;
+    margin-left: 12%;
+    color: white;
+    width: 81vw;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    
+}
+.success_form i {
+    font-size: 100px;
+    color: green;
+    margin: 20px;
+    margin-top: 45px;
+    
+}
+.success_form h2 {
+    font-size: large;
+    padding-bottom: 30px;
+    border: none;
+    border-bottom: 1px solid gray;
+    margin: 0px 20px;
+}
+
+.msg_text p {
+     color:gray;
+     font-weight: bold;
+     margin: 55px 0px;
+     font-weight: bold;
+     
+   
+    
+     
+}
+.msg_text button {
+    font-size:25px;
+    padding: 5px 27px;
+    margin-top: 55px;
+    border-radius: 20px;
+    margin-bottom: 25px;
+    cursor: pointer;
+}
